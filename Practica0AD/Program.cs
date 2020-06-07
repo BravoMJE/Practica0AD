@@ -6,7 +6,7 @@ namespace Practica0AD
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World2!");
         }
     }
 }
